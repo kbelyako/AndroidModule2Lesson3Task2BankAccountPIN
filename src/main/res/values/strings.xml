@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidModule2Lesson3Task2BankAccountPIN</string>
+    <string name="first_name">first name</string>
+    <string name="second_name">second name</string>
+    <string name="id">id</string>
+    <string name="age">age</string>
+    <string name="petr">Petr</string>
+    <string name="stone">Stone</string>
+    <string name="_555">555</string>
+    <string name="_34">34</string>
+    <string name="add">add</string>
+    <string name="acoount_info">Acoount info</string>
+    <string name="enter_pin">enter PIN</string>
+    <string name="ok">ok</string>
+</resources>
